@@ -1,0 +1,11 @@
+{
+  "extends": ["react-app", "airbnb", "plugin:prettier/recommended", "plugin:node/recommended"],
+  "rules": {
+    "no-unused-vars": "warn",
+    "no-console": "off",
+    "func-names": "off",
+    "no-process-exit": "off",
+    "object-shorthand": "off",
+    "class-methods-use-this": "off"
+  }
+}
